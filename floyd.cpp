@@ -67,7 +67,7 @@ void floydWarshall (int graph[][V])
 /* A utility function to print solution */
 void printSolution(int dist[][V])
 {
-    printf ("The following matrix shows the shortest distances"
+    printf ("The following mmmmmmmmmmatrix shows the shortest distances"
             " between every pair of vertices \n");
     for (int i = 0; i < V; i++)
     {
